@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Headphones</string>
+    <string name="saved">Saved successfully!</string>
+    <string name="fields_compulsory_warning">All fields are compulsory!</string>
+    <string name="deleted_msg">Deleted!</string>
+    <string name="updated">Updated Successfully!</string>
+    <string name="future_feature">Currently not implemented!</string>
+</resources>
